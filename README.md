@@ -2,15 +2,15 @@
 
 # RegAffairs AI plugin for Claude
 
-Cited answers on chemical, food, pharma, cosmetic, pesticide and biocide rules, inside Claude.
+Cited answers on chemical, food, pharma, device, cosmetic, pesticide and biocide rules, inside Claude.
 
-This plugin connects Claude to the [RegAffairs AI](https://regaffairsai.com) MCP server and adds five skills that teach Claude real regulatory affairs workflows. Every result links to the regulator's own document, so each claim can be checked.
+This plugin connects Claude to the [RegAffairs AI](https://regaffairsai.com) MCP server and adds five skills that teach Claude real regulatory affairs workflows. Every result links to the source document it came from, so each claim can be checked.
 
 Built for regulatory affairs, product stewardship, SDS authoring, REACH Only Representatives and regulatory consultancies.
 
 ## What you get
 
-**Connector:** the RegAffairs AI MCP server at `https://mcp.regaffairsai.com/mcp`. This is the same server as the RegAffairs AI connector in the Claude directory, so you see one set of tools. It covers more than 1,400 regulator datasets in 49 jurisdictions: ECHA REACH and CLP lists, UK REACH, US TSCA, California Prop 65, Turkey KKDIK, EU and US food law, EU cosmetics annexes, pesticide approvals and MRLs, biocides, EU GMP and ICH, FDA and EMA drug data, device registers and textile restricted substance lists.
+**Connector:** the RegAffairs AI MCP server at `https://mcp.regaffairsai.com/mcp`. This is the same server as the RegAffairs AI connector in the Claude directory, so you see one set of tools. It covers more than 1,400 regulator datasets in 49 jurisdictions: ECHA REACH and CLP lists, UK REACH, US TSCA, California Prop 65, Turkey KKDIK, EU and US food law, EU cosmetics annexes, pesticide approvals and MRLs, biocides, EU GMP and ICH, FDA and EMA drug data, the EU MDR and IVDR, device registers and textile restricted substance lists.
 
 **Skills:**
 

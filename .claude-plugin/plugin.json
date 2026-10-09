@@ -2,7 +2,7 @@
   "name": "regaffairs-ai",
   "displayName": "RegAffairs AI",
   "version": "1.0.0",
-  "description": "Cited answers on chemical, food, pharma, cosmetic, pesticide and biocide rules. Screen CAS or EC numbers, check SDS sections, map market-entry rules and verify claims against the official source.",
+  "description": "Cited answers on chemical, food, pharma, device, cosmetic, pesticide and biocide rules. Screen CAS or EC numbers, check SDS sections, map market-entry rules and verify claims against the official source.",
   "author": {
     "name": "RegAffairs AI",
     "email": "hello@regaffairsai.com",
@@ -11,7 +11,18 @@
   "homepage": "https://regaffairsai.com/docs/mcp",
   "repository": "https://github.com/RegAffairsAI/claude-plugin",
   "license": "MIT",
-  "keywords": ["regulatory", "compliance", "reach", "clp", "sds", "tsca", "cosmetics", "food", "pharma", "pesticides"],
+  "keywords": [
+    "regulatory",
+    "compliance",
+    "reach",
+    "clp",
+    "sds",
+    "tsca",
+    "cosmetics",
+    "food",
+    "pharma",
+    "pesticides"
+  ],
   "icon": "./assets/regaffairs-icon-512.png",
   "documentationUrl": "https://regaffairsai.com/docs/mcp",
   "supportUrl": "https://regaffairsai.com/contact",

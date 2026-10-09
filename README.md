@@ -1,4 +1,7 @@
-![RegAffairs AI](assets/regaffairs-icon-512.png)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.png">
+  <img alt="RegAffairs AI: fast-track your regulatory research" src="assets/banner-light.png" width="100%">
+</picture>
 
 # RegAffairs AI plugin for Claude
 
@@ -7,6 +10,8 @@ Cited answers on chemical, food, pharma, device, cosmetic, pesticide and biocide
 This plugin connects Claude to the [RegAffairs AI](https://regaffairsai.com) MCP server and adds five skills that teach Claude real regulatory affairs workflows. Every result links to the source document it came from, so each claim can be checked.
 
 Built for regulatory affairs, product stewardship, SDS authoring, REACH Only Representatives and regulatory consultancies.
+
+![A RegAffairs AI answer on glyphosate approval, expiry and MRLs in the EU Pesticides Database, with 19 cited sources](assets/cited-answer.png)
 
 ## What you get
 
